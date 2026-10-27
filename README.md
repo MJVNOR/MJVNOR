@@ -9,6 +9,8 @@
 
 ### Hi, I'm Martin.
 
+I'm a **Senior AI Engineer with a Master's in Data Science from Universidad de Sonora**, working across industrial AI, computer vision, and MLOps.
+
 I build AI projects that connect **models, data, and applications**—from visual defect detection and 3D perception to knowledge graphs and interactive learning tools.
 
 My focus is the full path: **prepare the data → integrate the model → evaluate the behavior → build the application.**
