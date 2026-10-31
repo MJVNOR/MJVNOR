@@ -5,6 +5,8 @@
 <p align="center">
   <a href="#selected-projects"><img src="https://img.shields.io/badge/Explore_my_work-62E6C3?style=for-the-badge&amp;logo=github&amp;logoColor=0D1724" alt="Explore my work" /></a>
   <a href="https://github.com/MJVNOR?tab=repositories"><img src="https://img.shields.io/badge/All_repositories-162433?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" alt="All repositories" /></a>
+  <a href="https://www.linkedin.com/in/martin-jose-vega-4181a2120/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FFFFFF" alt="Connect with Martin Vega on LinkedIn" /></a>
+  <a href="https://medium.com/@mjvnor"><img src="https://img.shields.io/badge/Medium-162433?style=for-the-badge&amp;logo=medium&amp;logoColor=FFFFFF" alt="Read Martin Vega's articles on Medium" /></a>
 </p>
 
 ### Hi, I'm Martin.
